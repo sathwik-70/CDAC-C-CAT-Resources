@@ -2,7 +2,7 @@
 
 Practicing previous years' question papers and mock tests under timed conditions is essential for securing a top rank (within Top 500) in the C-DAC C-CAT examination.
 
----
+--- 
 
 ## 🗂️ Directory Overview
 
