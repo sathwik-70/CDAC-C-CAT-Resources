@@ -2,7 +2,7 @@
 
 This section is **mandatory for Group C courses** (such as PG-DESD, PG-DVLSI, PG-DHPCSA, PG-DIoT, etc.). It consists of 50 questions to be solved in 60 minutes. It requires strong analytical ability in hardware concepts, logic gates, and low-level assembly concepts.
 
----
+--- 
 
 ## 📋 Syllabus Breakdown & Study Material
 
